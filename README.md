@@ -1,5 +1,5 @@
 <h1 align = "center">Hi! It's Kiran🌻</h1>  
-<pre align = "center">WHAT'S UP EARTHLINGS!</pre>
+<pre align = "center">Meowdy</pre>
 
 <div align = "center">
   <img src ="https://github.com/ray-sid/ray-sid/blob/main/images/catto.gif" height = "250" width = "600">
@@ -18,6 +18,7 @@
 #
 <img src  = "https://github.com/ray-sid/ray-sid/blob/main/images/doge-type.gif" height = "70" width = "70" align = "top"> <img src  = "https://github.com/ray-sid/ray-sid/blob/main/images/hiding-under-covers-tired.gif" height = "70" width = "70">
 
+> 💡**Note to self:** Go touch grass.
 
 
 
