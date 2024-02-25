@@ -18,7 +18,7 @@
 #
 <img src  = "https://github.com/ray-sid/ray-sid/blob/main/images/doge-type.gif" height = "70" width = "70" align = "top"> <img src  = "https://github.com/ray-sid/ray-sid/blob/main/images/hiding-under-covers-tired.gif" height = "70" width = "70">
 
-> 💡**Note to self:** Go touch grass.
+> 📝**Note to self:** Go touch grass.
 
 
 
